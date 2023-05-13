@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>785039242887-cans7s1vvr9mg21616s67i3fhqv2nvss.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.785039242887-cans7s1vvr9mg21616s67i3fhqv2nvss</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjDHdQTAbo98KxQ9M6V5wlBPlbOX0ldnE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>785039242887</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pororooadmin</string>
+	<key>PROJECT_ID</key>
+	<string>pororo-platform</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pororo-platform.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:785039242887:ios:6cec71b9ee94d922d32a22</string>
+	<key>DATABASE_URL</key>
+	<string>https://pororo-platform-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

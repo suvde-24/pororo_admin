@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "785039242887",
+    "firebase_url": "https://pororo-platform-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pororo-platform",
+    "storage_bucket": "pororo-platform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785039242887:android:7715fd2371e9c5ebd32a22",
+        "android_client_info": {
+          "package_name": "com.example.pororo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785039242887-09lb9d2o2oft6f8n77tn6j3tbqlsahrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUt14Z4NosZHCkwPtMC3VUUalBq1IPpjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785039242887-09lb9d2o2oft6f8n77tn6j3tbqlsahrd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785039242887-6ark0rvabsh8ffo8fibabnsfjv8l8ca4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pororo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785039242887:android:96945ba654976707d32a22",
+        "android_client_info": {
+          "package_name": "com.example.pororo_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785039242887-09lb9d2o2oft6f8n77tn6j3tbqlsahrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUt14Z4NosZHCkwPtMC3VUUalBq1IPpjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785039242887-09lb9d2o2oft6f8n77tn6j3tbqlsahrd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785039242887-6ark0rvabsh8ffo8fibabnsfjv8l8ca4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pororo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
